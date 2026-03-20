@@ -1,6 +1,6 @@
 # Title: DSLNDD-Net: A Multi-Scale Edge-Aware Attention Network for Nutrient Deficiency Detection in Dense Strawberry Leaves
 ### block.py: the code of model 
-### flower_count.py: the code of loss
+### loss.py,metrics.py: DSUIoU
 ### two69-all.yaml: the code for model construction
 ## Train
 To train the gan model by yourself, please: 
