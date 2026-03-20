@@ -11,7 +11,7 @@ To train the gan model by yourself, please:
     python train.py
     ```
 ## Test
-To generate synthetic dataset on your own pc, simply check the arguments in test.py and run:
+To generate synthetic dataset on your own pc, simply check the arguments in test.py and run:weight(https://drive.google.com/drive/folders/1v1X2GWuixjs3Yw7hXA8t8CkVQxaANol-?usp=drive_link)
    ```
    python test.py
    ```
